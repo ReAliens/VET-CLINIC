@@ -15,17 +15,13 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **AHMED REDA**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ReAliens](https://github.com/ReAliens)
+- Twitter: [@AhmedRedaMoha19](https://twitter.com/AhmedRedaMoha19)
+- LinkedIn: [Ahmed-Reda](https://www.linkedin.com/in/armali/)
+- Email: ahmedreda152@gmail.com
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
