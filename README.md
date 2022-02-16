@@ -1,7 +1,6 @@
-# curriculum-databases-projects-template
+# Vetal Clinic DataBase
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+>this is a simple database for Vet-Clinic which tracks animals stored data like name , age , weight and escape attempts  
 
 
 ## Getting Started
@@ -27,7 +26,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/ReAliens/VET-CLINIC).
 
 ## Show your support
 
